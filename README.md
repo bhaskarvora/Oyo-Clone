@@ -24,18 +24,7 @@ Before running the project, you need to set up the environment variables.
 2. Copy the content of the `.env.example` file into the newly created `.env` file.
 3. Replace the placeholder values with your actual credentials.
 
-Example:
 
-```plaintext
-MONGO_URI=MONGO_URI=MONGO_URI=mongodb+srv://<username>:<password>@cluster0.dh0yzew.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
-
-
-JWT_SECRET=your_jwt_secret_here
-
-BASE_URL=http://localhost:3000
-
-NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key_here
-STRIPE_SECRET_KEY=your_stripe_secret_key_here
 
 
 ![Home Page](https://github.com/user-attachments/assets/3d5ee668-1bb6-4f9c-ba0a-2636cf749332)
@@ -70,6 +59,15 @@ Successful Payment
 
 
 
+Example:
+
+```plaintext
+MONGO_URI=MONGO_URI=MONGO_URI=mongodb+srv://<username>:<password>@cluster0.dh0yzew.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 
+JWT_SECRET=your_jwt_secret_here
 
+BASE_URL=http://localhost:3000
+
+NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key_here
+STRIPE_SECRET_KEY=your_stripe_secret_key_here
