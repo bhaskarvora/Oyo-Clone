@@ -38,7 +38,7 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key_here
 STRIPE_SECRET_KEY=your_stripe_secret_key_here
 
 
-![Screenshot 2024-08-29 160019](https://github.com/user-attachments/assets/3d5ee668-1bb6-4f9c-ba0a-2636cf749332)
+![Home Page](https://github.com/user-attachments/assets/3d5ee668-1bb6-4f9c-ba0a-2636cf749332)
 
 ## This is a Home Page 
 
