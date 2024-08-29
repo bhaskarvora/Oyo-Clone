@@ -16,19 +16,11 @@ Must have knowledge of NextJs, TailWind CSS, MongoDB
 
 **For Dev** - `npm run dev`  
 
-## Environment Variables
-
-Before running the project, you need to set up the environment variables. 
-
-1. Create a `.env` file in the root of your project.
-2. Copy the content of the `.env.example` file into the newly created `.env` file.
-3. Replace the placeholder values with your actual credentials.
-
 
 
 
 ![Home Page](https://github.com/user-attachments/assets/3d5ee668-1bb6-4f9c-ba0a-2636cf749332)
-
+Home 
 
 
 ![Screenshot 2024-08-29 160121](https://github.com/user-attachments/assets/fc44bd4d-29cd-4f68-bb4a-95d4d9d7f499)
@@ -41,7 +33,7 @@ Filters are used in this web application
 
 ![Screenshot 2024-08-29 160210](https://github.com/user-attachments/assets/2989e3b0-0d89-4ca7-ad83-43a0de4f3ef5)
 
-Examaple of Filter
+Example of Filter
 
 ![Screenshot 2024-08-29 160638](https://github.com/user-attachments/assets/b967d36f-afbd-4eab-9624-1d2fbcd079e8)
 
@@ -61,7 +53,14 @@ Successful Payment
 
 Example:
 
-```plaintext
+## Environment Variables
+
+Before running the project, you need to set up the environment variables. 
+
+1. Create a `.env` file in the root of your project.
+2. Copy the content of the `.env.example` file into the newly created `.env` file.
+3. Replace the placeholder values with your actual credentials.
+
 MONGO_URI=MONGO_URI=MONGO_URI=mongodb+srv://<username>:<password>@cluster0.dh0yzew.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 
 
