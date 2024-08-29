@@ -38,5 +38,39 @@ NEXT_PUBLIC_STRIPE_PUBLISHABLE_KEY=your_stripe_publishable_key_here
 STRIPE_SECRET_KEY=your_stripe_secret_key_here
 
 
+![Screenshot 2024-08-29 160019](https://github.com/user-attachments/assets/3d5ee668-1bb6-4f9c-ba0a-2636cf749332)
+
+## This is a Home Page 
+
+
+![Screenshot 2024-08-29 160121](https://github.com/user-attachments/assets/fc44bd4d-29cd-4f68-bb4a-95d4d9d7f499)
+
+List of Hotels are shown here
+
+![Screenshot 2024-08-29 160133](https://github.com/user-attachments/assets/6386bc9c-7dc5-4de1-8be9-1efe945d73c6)
+
+Filters are used in this web application
+
+![Screenshot 2024-08-29 160210](https://github.com/user-attachments/assets/2989e3b0-0d89-4ca7-ad83-43a0de4f3ef5)
+
+Examaple of Filter
+
+![Screenshot 2024-08-29 160638](https://github.com/user-attachments/assets/b967d36f-afbd-4eab-9624-1d2fbcd079e8)
+
+Details of Specific Hotel is shown here
+
+![Screenshot 2024-08-29 160657](https://github.com/user-attachments/assets/ba82e568-1cb5-4057-a412-0d2a57f5b035)
+
+Stripe Payment Integration
+
+![Screenshot 2024-08-29 160756](https://github.com/user-attachments/assets/7fcca996-e423-435e-b922-b8241679941e)
+
+Successful Payment 
+
+
+
+
+
+
 
 
