@@ -40,7 +40,6 @@ STRIPE_SECRET_KEY=your_stripe_secret_key_here
 
 ![Home Page](https://github.com/user-attachments/assets/3d5ee668-1bb6-4f9c-ba0a-2636cf749332)
 
-## This is a Home Page 
 
 
 ![Screenshot 2024-08-29 160121](https://github.com/user-attachments/assets/fc44bd4d-29cd-4f68-bb4a-95d4d9d7f499)
