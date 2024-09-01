@@ -13,18 +13,18 @@ Must have knowledge of NextJs, TailWind CSS, MongoDB
 
 # Tech Stack
 
-Technical Stack
-Frontend:
+**Frontend:**
+- Framework: Next.js (React-based framework)
+- Styling: Tailwind CSS
+- Payment Integration: Stripe
+- State Management: React state hooks
+- HTTP Requests: Axios
 
-Framework: Next.js (React-based framework),
-Styling: Tailwind CSS,
-Payment Integration: Stripe,
-State Management: React state hooks,
-HTTP Requests: Axios
-Backend:
+**Backend:**
+- Database: MongoDB
+- Authentication: JSON Web Tokens (JWT)
+- Password Hashing: bcrypt
 
-Database: MongoDB,
-Authentication: JSON Web Tokens (JWT), bcrypt for password hashing
 
 
 # Features
