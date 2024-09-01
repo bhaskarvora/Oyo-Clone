@@ -7,10 +7,33 @@ Hii, I am **Bhaskar Vora**
 I am a self motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.
 
 
-
 # Prerequisite
 
 Must have knowledge of NextJs, TailWind CSS, MongoDB
+
+# Tech Stack
+
+Technical Stack
+Frontend:
+
+Framework: Next.js (React-based framework)
+Styling: Tailwind CSS
+Payment Integration: Stripe
+State Management: React state hooks
+HTTP Requests: Axios
+Backend:
+
+Database: MongoDB (with Mongoose for data modeling)
+Authentication: JSON Web Tokens (JWT), bcrypt for password hashing
+
+
+# Features
+User Authentication: Allows users to sign up and log in, with credentials managed securely.
+Payment Integration: Handles payments through Stripe with a checkout flow.
+Database Connection: Connects to MongoDB to manage user data and possibly other related data.
+Error Handling: Includes error handling for Stripe and API-related issues.
+
+
 
 ## Install Dependencies
 
