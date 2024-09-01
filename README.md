@@ -29,10 +29,11 @@ Authentication: JSON Web Tokens (JWT), bcrypt for password hashing
 
 # Features
 
-1.User Authentication: Allows users to sign up and log in, with credentials managed securely.
-2.Payment Integration: Handles payments through Stripe with a checkout flow.
-3.Database Connection: Connects to MongoDB to manage user data and possibly other related data.
-4.Error Handling: Includes error handling for Stripe and API-related issues.
+1. User Authentication: Allows users to sign up and log in, with credentials managed securely.
+2. Payment Integration: Handles payments through Stripe with a checkout flow.
+3. Database Connection: Connects to MongoDB to manage user data and possibly other related data.
+4. Error Handling: Includes error handling for Stripe and API-related issues.
+
 
 
 
